@@ -11,3 +11,4 @@ Found the tutorial [here](https://blog.logrocket.com/using-typescript-with-react
 ``
 npx react-native init ShoppingList --template react-native-template-typescript
 ``
+To get the result of the tutorial copy the content from custom_stuff in the generate dir ShoppingList.
